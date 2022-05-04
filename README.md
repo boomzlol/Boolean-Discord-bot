@@ -1,2 +1,2 @@
-# Boolean-Discord-bot
-A bot that will change discord bot programming!
+# Boolean Discord bot
+## a discord developers friend!
